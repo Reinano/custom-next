@@ -69,7 +69,7 @@ export default function Home() {
               zIndex: '100',
               background: 'blueviolet'
             }}
-            href='/es-es/quenes-somos/about-2'>Click</Link>
+            href='/es-es/quenes-somos/about-2'>about-2</Link>
         </div>
 
         <div className={styles.grid}>
